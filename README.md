@@ -10,6 +10,7 @@
 
 <br>
 
+- 3rd year student at UIT
 - A passionate self-taught back-end developer
 - Currently learning Web Development by Self
 
