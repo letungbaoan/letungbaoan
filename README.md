@@ -11,7 +11,7 @@
 <br>
 
 - 3rd year student at UIT
-- A passionate self-taught back-end developer
+- A passionate self-taught full-stack web developer
 - Currently learning Web Development by Self
 
 <br><br>
@@ -69,6 +69,17 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </p>
+
+<br>
+
+## **Project**
+
+- Shopee frontend clone project using ReactJs, TypeScript
+- Twitter backend clone project using ExpressJs, TypeScript, MongoDB
+- Jalea - Japanese learning assistant, a web application using ExpressJs, TypeScript, Azure OpenAI, MongoDB
+- W3 The Band frontend clone project using HTML, CSS, JavaScript
+- Text reranking using Python, BM25 and Bert model
+- Panasonic warranty site crawling tool using Python, Selenium
 
 <br>
 <br>
